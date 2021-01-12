@@ -12,7 +12,7 @@ python sort_movies_per_ratings.py movies_list.txt
 
 Given the following list of movies:
 
-<img width="718" alt="Captura de ecrã 2021-01-11, às 22 19 49" src="https://user-images.githubusercontent.com/25267873/104385874-efcbd600-552b-11eb-8924-22430bc5aa44.png">
+<img width="485" alt="Captura de ecrã 2021-01-12, às 23 17 33" src="https://user-images.githubusercontent.com/25267873/104386111-58b34e00-552c-11eb-8074-41cdedecbb92.png">
 
 
 The following ranked list of movies was created:
