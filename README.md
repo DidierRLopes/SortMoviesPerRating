@@ -11,7 +11,8 @@ python sort_movies_per_ratings.py movies_list.txt
 ```
 
 Given the following list of movies:
-![99_mind_fck_movies](https://user-images.githubusercontent.com/25267873/104384874-24d72900-552a-11eb-92d7-aa32db7d03a5.jpeg)
+<img width="718" alt="Captura de ecrã 2021-01-11, às 22 19 49" src="https://user-images.githubusercontent.com/25267873/104385874-efcbd600-552b-11eb-8924-22430bc5aa44.png">
+
 
 The following ranked list of movies was created:
 <img width="1012" alt="ranked_99_mind_fck_movies" src="https://user-images.githubusercontent.com/25267873/104385259-cfe7e280-552a-11eb-8b37-22c120c519a4.png">
