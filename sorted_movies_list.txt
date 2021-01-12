@@ -1,0 +1,99 @@
+ 1. Inception (2010): 8.8
+ 2. Fight Club (1999): 8.8
+ 3. The Matrix (1999): 8.7
+ 4. Interstellar (2014): 8.6
+ 5. Se7en (1995): 8.6
+ 6. The Prestige (2006): 8.5
+ 7. The Usual Suspects (1995): 8.5
+ 8. Oldboy (2003): 8.4
+ 9. Memento (2000): 8.4
+10. Incendies (2010): 8.3
+11. Eternal Sunshine of the Spotless Mind (2004): 8.3
+12. Requiem for a Dream (2000): 8.3
+13. A Clockwork Orange (1971): 8.3
+14. 2001 A Space Odyssey (1968): 8.3
+15. Vertigo (1958): 8.3
+16. The Fall (2013): 8.2
+17. Shutter Island (2010): 8.2
+18. Pan's Labyrinth (2006): 8.2
+19. A Beautiful Mind (2001): 8.2
+20. Stalker (1979): 8.2
+21. The Handmaiden (2016): 8.1
+22. Gone Girl (2014): 8.1
+23. Prisoners (2013): 8.1
+24. The Sixth Sense (1999): 8.1
+25. The Truman Show (1998): 8.1
+26. The End of Evangelion (1997): 8.1
+27. Black Swan (2010): 8.0
+28. Donnie Dark (2001): 8.0
+29. Magnolia (1999): 8.0
+30. Perfect Blue (1997): 8.0
+31. 12 Monkeys (1995): 8.0
+32. Groundhog Day (1993): 8.0
+33. Rosemary's Baby (1968): 8.0
+34. Arrival (2016): 7.9
+35. Moon (2009): 7.9
+36. Mulholland Dr. (2001): 7.9
+37. Brazil (1985): 7.9
+38. The Holy Mountain (1973): 7.9
+39. Mr. Nobody (2009): 7.8
+40. Waking Life (2001): 7.8
+41. The Game (1997): 7.8
+42. Get Out (2017): 7.7
+43. Ex Machina (2014): 7.7
+44. Paprika (2006): 7.7
+45. The Machinist (2004): 7.7
+46. Adaptation (2002): 7.7
+47. Being John Malkovich (1999): 7.7
+48. Happiness (1998): 7.7
+49. Primal Fear (1996): 7.7
+50. Blue Velvet (1986): 7.7
+51. Un Chien Andalou (1929): 7.7
+52. Synecdoche. New York (2008): 7.6
+53. The Illusionist (2006): 7.6
+54. The Butterfly Effect (2004): 7.6
+55. American Psycho (2000): 7.6
+56. Lost Highway (1997): 7.6
+57. The Lighthouse (2019): 7.5
+58. The Wailing (2016): 7.5
+59. Predestination (2014): 7.5
+60. Jacob's Ladder (1990): 7.5
+61. The Orphanage (2007): 7.4
+62. Irreversible (2002): 7.4
+63. Eyes Wide Shut (1999): 7.4
+64. Pi (1998): 7.4
+65. Eraserhead (1977): 7.4
+66. Hereditary (2018): 7.3
+67. Split (2016): 7.3
+68. Enter the Void (2009): 7.3
+69. Dogtooth (2009): 7.3
+70. Identity (2003): 7.3
+71. The Lobster (2015): 7.2
+72. Coherence (2013): 7.2
+73. Timecrimes (2007): 7.2
+74. Sunshine (2007): 7.2
+75. The Fountain (2006): 7.2
+76. A tale of Two Sisters (2003): 7.2
+77. Cube (1997): 7.2
+78. Videodrome (1983): 7.2
+79. Midsommar (2019): 7.1
+80. Martyrs (2008): 7.1
+81. The Mist (2007): 7.1
+82. 1984 (1984): 7.1
+83. The Killing of a Sacred Deer (2017): 7.0
+84. The Gift (2015): 7.0
+85. Sorry to Bother You (2018): 6.9
+86. Enemy (2013): 6.9
+87. Triangle (2009): 6.9
+88. Primer (2004): 6.9
+89. Vanilla Sky (2001): 6.9
+90. Annihilation (2018): 6.8
+91. Existenz (1999): 6.8
+92. Slaughterhouse 5 (1972): 6.8
+93. Upstream Colour (2013): 6.7
+94. Signs (2002): 6.7
+95. Mother! (2017): 6.6
+96. Antichrist (2009): 6.6
+97. The Cell (2000): 6.4
+98. Under the Skin (2013): 6.3
+99. Fear and Loathing (2007): ??
